@@ -1,0 +1,44 @@
+start:
+  orientation:
+    w: 0.7071
+    x: 0.0
+    y: 0.0
+    z: 0.7071
+  position:
+    x: 2.0
+    y: -1.5
+    z: 0.0
+
+'1':
+  orientation:
+    w: 0.0
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  position:
+    x: -0.5
+    y: -0.5
+    z: 0.0
+
+'2':
+  orientation:
+    w: 0.7071
+    x: 0.0
+    y: 0.0
+    z: -0.7071
+  position:
+    x: 0.0
+    y: -1.5
+    z: 0.0
+
+'3':
+  orientation:
+    w: 0.0
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  position:
+    x: -0.5
+    y: 0.5
+    z: 0.0
+
