@@ -4,8 +4,8 @@ This repository displays the C#- and Python codes that are used in the app and M
 The https://github.com/MartijnWisse/mirte_workshop was followed for setting up the robot. The respository includes Mirte Master preparations, launch files, arm-gripper movement, navigation, marker palcement, and more. 
 
 # Gripper node and navigation
-The Gripper node was created during the project 
-The navigation node was edited from Martijn Wisse's example code
+- The Gripper node was created during the project
+- The navigation node was edited from Martijn Wisse's example code
 
 # Auto Docking Node 
 This was made during project and is available on: https://github.com/deniseheidema/Mirte-Master-Auto-Docking-ArUco
